@@ -1,0 +1,1 @@
+export { effect } from './reactivity/index.ts'
